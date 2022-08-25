@@ -127,3 +127,15 @@
 # ---------------------------------------------------------------------------------------------------------------------------- #
 
 # --- INNER/RIGHT/LEFT JOIN --- #
+
+"""SELECT
+	customer.customer_id,
+	first_name,
+	last_name,
+	amount,
+	payment_date
+FROM
+	customer
+INNER JOIN payment 
+    ON payment.customer_id = customer.customer_id
+ORDER BY payment_date;"""
