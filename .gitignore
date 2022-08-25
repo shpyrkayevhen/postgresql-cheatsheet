@@ -1,5 +1,9 @@
 # IGNORE FILE
-config.py
+!config.py
 
-# IGNORE FILE IN THE DIR 
-# dir_name/
+# IGNORE FOLDER 
+# folder_name/ OR # folder_name/*.html
+
+
+# Ignore File With Extenssion 
+# *.py
