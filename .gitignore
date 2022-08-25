@@ -1,5 +1,5 @@
 # IGNORE FILE
-!config.py
+config/
 
 # IGNORE FOLDER 
 # folder_name/ OR # folder_name/*.html

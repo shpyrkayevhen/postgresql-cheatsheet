@@ -2,7 +2,7 @@
 import psycopg2
 # To get data in a dictionary type
 import psycopg2.extras
-import config
+import config.config as config
 
 connection = None
 
