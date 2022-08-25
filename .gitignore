@@ -1,9 +1,5 @@
-# IGNORE FILE
+# Ignore Folder
 config/
-
-# IGNORE FOLDER 
-# folder_name/ OR # folder_name/*.html
-
-
-# Ignore File With Extenssion 
-# *.py
+ 
+# Ignore All Files With Extenssion 
+# *.py OR folder_name/*.py
